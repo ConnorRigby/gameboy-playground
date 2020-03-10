@@ -107,6 +107,7 @@ VBlankHandler:
 SECTION "Font", ROM0
 
 FontTiles:
+INCBIN "src/res/smiley.2bpp"
 INCBIN "src/res/font.chr"
 FontTilesEnd:
 

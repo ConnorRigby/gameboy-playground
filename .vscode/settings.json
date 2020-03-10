@@ -3,5 +3,6 @@
         "src/",
         "src/constants",
         "src/macros"
-    ]
+    ],
+    "python.formatting.provider": "black"
 }
